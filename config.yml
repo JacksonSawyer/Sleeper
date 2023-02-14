@@ -2,7 +2,7 @@
 
 #Settings
 UseAnimation: true
-SkipPercentage: 25
+SkipPercentage: 50
 SkipSpeed: 100
 
 #Voting system, a night is skipped based on yes votes minus no votes
@@ -12,8 +12,8 @@ NoMultiplier: 1
 SkipVotePercent: 50
 
 #Messages
-SleepInfo: "&aSleep > &7%percent% (%count%) out of a minimum of 25% sleeping."
-NightSkip: "&aSleep > &7At least 25% of online users sleeping (%count%), skipping the night."
+SleepInfo: "&aSleep > &7%percent% (%count%) out of a minimum of 50% sleeping."
+NightSkip: "&aSleep > &7At least 50% of online users sleeping (%count%), skipping the night."
 Ignored: "&cSleep > &7You are still being ignored for sleep calculations!"
 VoteTitle: "&aSleep > &7Vote below on skipping the night:"
 VoteYes: "&a&lYes"
